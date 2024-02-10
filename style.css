@@ -1,0 +1,95 @@
+.general {
+    width: 85vw;
+    margin-left: 8%;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-weight: bold;
+}
+
+.custom-navbar {
+    position: sticky;
+    top: 0;
+    height: 50px;
+    z-index: 1000;
+    background-color: #0069A3;
+}
+
+.icon-nav {
+    margin-left: 35px;
+}
+
+.icon-social-media {
+    padding: 0 10px;
+}
+
+.text-nav {
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    padding: 0 10px;
+}
+
+.contenedor-imagen img {
+    width: 100%;
+    height: auto;
+}
+
+.texto-superpuesto {
+    position: absolute;
+    top: 57%;
+    left: 180px;
+    color: white;
+}
+
+.small-text {
+    font-size: 13px;
+    font-weight: 630;
+    text-align: center;
+}
+
+.card-history {
+    text-align: justify;
+    left: 100px;
+    top: 50px;
+    z-index: 1000;
+    font-size: 12px;
+}
+
+.card-descript {
+    text-align: justify;
+    left: 500px;
+    top: -273px;
+    z-index: 1100;
+    font-size: 12px;
+}
+
+.card-mision {
+    padding: 7%;
+    font-size: 12px;
+    top: 50px;
+}
+
+.card-vision {
+    padding: 5.5%;
+    font-size: 12px;
+    top: 50px;
+}
+
+.icon-whatsapp {
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+    z-index: 9999;
+}
+
+.input-search {
+    border-radius: 10px;
+    width: 90% !important;
+    height: 85% !important;
+}
+
+.custom-background {
+    background-color: #d1f9d1;
+}
